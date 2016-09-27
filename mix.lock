@@ -1,0 +1,4 @@
+%{"earmark": {:hex, :earmark, "1.0.1", "2c2cd903bfdc3de3f189bd9a8d4569a075b88a8981ded9a0d95672f6e2b63141", [:mix], []},
+  "httpotion": {:hex, :httpotion, "3.0.1", "6165e7fe4052dfeadd4b480e4ed6619975242ac91d577e4868af92613f9e99df", [:mix], [{:ibrowse, "~> 4.2", [hex: :ibrowse, optional: false]}]},
+  "ibrowse": {:hex, :ibrowse, "4.2.2", "b32b5bafcc77b7277eff030ed32e1acc3f610c64e9f6aea19822abcadf681b4b", [:rebar3], []},
+  "json": {:hex, :json, "1.0.0", "4824dadb01e14395f65e9d18da294d534326d7eed77996f3c22f74a9870179eb", [:mix], [{:earmark, ">= 0.0.0", [hex: :earmark, optional: false]}]}}
